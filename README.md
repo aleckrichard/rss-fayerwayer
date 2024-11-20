@@ -1,6 +1,6 @@
 # RSS Feed Viewer 📰
 
-Visor de feeds RSS dinámico y responsivo construido con HTML, JavaScript y Bootstrap.
+Visor de feeds RSS dinámico y responsivo construido con NodeJS, HTML, JavaScript y Bootstrap.
 
 ## Características
 
